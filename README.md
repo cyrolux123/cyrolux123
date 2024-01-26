@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **katwalnk369@gmail.com**
 
-- ⚡ Hobby :**EAT-SLEEP-CODE-REPEAT**
+- ⚡ Hobby : **EAT-SLEEP-CODE-REPEAT**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
