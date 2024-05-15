@@ -8,7 +8,7 @@
 
 - 🔭Have a look at my portfolio [https://nabinkatwal.com.np/](https://nabinkatwal.com.np/)
 
-- 💬 Ask me about **Python,ML and DL**
+- 💬 Ask me about **Python,ML and DS**
 
 - 📫 How to reach me **katwalnk369@gmail.com**
 
