@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyrolux123&label=Profile%20views&color=0e75b6&style=flat" alt="cyrolux123" /> </p>
 
-- 🌱 I’m currently exploring **Machine Learning, Deep Learning, and Data Science**
+- 🌱 I’m currently exploring **Data Analysis,Machine Learning, Deep Learning, and Data Science**
 
 - 🔭 Have a look at my portfolio [https://nabinkatwal.com.np/](https://nabinkatwal.com.np/)
 
