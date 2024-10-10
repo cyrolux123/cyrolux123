@@ -1,11 +1,13 @@
-<h1 align="center">Hi 👋, I'm Nabin Katwal</h1>
+g<h1 align="center">Hi 👋, I'm Nabin Katwal</h1>
 <h3 align="center">A Passionate ML Engineer</h3>
 <img align="right" alt="Coding" width="200" src="JXA0.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyrolux123&label=Profile%20views&color=0e75b6&style=flat" alt="cyrolux123" /> </p>
 
 - 🌱 I’m currently exploring **Machine Learning, Deep Learning and Data Science**
-
+  
+- UG Student at [Texas International College](https://texasintl.edu.np/).
+  
 - 🔭 Have a look at my portfolio [https://nabinkatwal.com.np/](https://nabinkatwal.com.np/)
 
 - 💬 Ask me about **Python, DA, ML, DL, Gen AI, and DS**
