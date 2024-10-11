@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently exploring **Machine Learning, Deep Learning and Data Science**
   
-- UG Student at [Texas International College](https://texasintl.edu.np/).
+- UG Student at [Texas International College](https://texasintl.edu.np/)
   
 - 🔭 Have a look at my portfolio [https://nabinkatwal.com.np/](https://nabinkatwal.com.np/)
 
