@@ -47,7 +47,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cyrolux123&show_icons=true&locale=en&layout=compact" alt="cyrolux123" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cyrolux123&" alt="cyrolux123" /></p>
-<p align="center">
-    <img src="https://raw.githubusercontent.com/cyrolux/cyrolux/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Snake Contribution Graph (Dark Mode)">
-    <img src="https://raw.githubusercontent.com/cyrolux/cyrolux/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Snake Contribution Graph (Light Mode)">
-</p>
