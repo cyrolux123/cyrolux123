@@ -10,7 +10,7 @@
   
 - 🔭 Have a look at my portfolio [https://nabinkatwal.com.np/](https://nabinkatwal.com.np/)
 
-- 💬 Ask me about **Python, DA, ML, DL, Gen AI, and DS**
+- 💬 Ask me about **Python, DA, ML, DL, Gen AI, and DS.**
 
 - 📫 How to reach me **katwalnk369@gmail.com**
 
