@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Python, DA, ML, DL, Gen AI, and DS.**
 
-- 📫 How to reach me **katwalnk369@gmail.com**
+- 📫 How to reach me **officialnabin345@gmail.com**
 
 - ⚡ Hobby : **EAT-SLEEP-CODE-REPEAT**
 
