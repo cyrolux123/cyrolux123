@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyrolux123&label=Profile%20views&color=0e75b6&style=flat" alt="cyrolux123" /> </p>
 
-- 🌱 I’m currently exploring **Machine Learning, Deep Learning and Data Science**
+- 🌱 I’m currently exploring **Machine Learning, Deep Learning and Data Science.**
 
-- 💬 Ask me about **Python, DA, ML, DL, Gen AI, and DS**
+- 💬 Ask me about **Python, DA, ML, DL, Gen AI, and DS.**
 
 - 📫 How to reach me **nabincoder@gmail.com**
 
