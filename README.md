@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently exploring **Data Anaysis, Machine Learning, Deep Learning and Data Science**
 
-- 💬 Ask me about **Python, DA, ML, DL, Gen AI, and DS**
+- 💬 Ask me about **Python, DA, ML, DL, Gen AI, and DS.**
 
 - 📫 How to reach me **nabincoder@gmail.com**
 
