@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **nabincoder@gmail.com**
 
-- ⚡ Hobby : **EAT-SLEEP-CODE-REPEAT.**
+- ⚡ Hobby : **EAT-SLEEP-CODE-REPEAT**
 
 
 <h3 align="left">Languages and Tools:</h3>
