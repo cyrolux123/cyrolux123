@@ -49,6 +49,11 @@
   <a href="https://keras.io/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="40" height="40"/> 
   </a>
+
+  <a href="https://mlflow.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://mlflow.org/docs/latest/images/logo-light.svg" alt="mlflow" width="40" height="40"/> 
+  </a>
+  
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
   </a>
