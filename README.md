@@ -101,6 +101,11 @@
   <a href="https://www.crummy.com/software/BeautifulSoup/" target="_blank" rel="noreferrer"> 
     <img src="https://miro.medium.com/v2/resize:fit:1400/0*eKyEiOMA8cXm-E7_.jpg" alt="beautifulsoup" width="40" height="40"/> 
   </a>
+  <!-- Automation / Workflow -->
+<a href="https://n8n.io/" target="_blank" rel="noreferrer"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/N8n-logo-new.svg/960px-N8n-logo-new.svg.png" alt="n8n" width="40" height="40"/> 
+</a>
+
 
   <!-- Version Control -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
