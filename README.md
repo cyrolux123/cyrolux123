@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyrolux123&label=Profile%20views&color=0e75b6&style=flat" alt="cyrolux123" /> </p>
 
-- 🌱 I’m currently working on  **Data Anaysis, AI/ML and Data Science **
+- 🌱 I’m currently working on **Data Anaysis, AI/ML and Data Science**
 
-- 💬 Ask me about **Python, DA, ML, DL, Gen AI, and DS  **
+- 💬 Ask me about **Python, DA, ML, DL, Gen AI, and DS**
 
 - 📫 How to reach me **nabincoder@gmail.com**
 
@@ -118,9 +118,6 @@
 </p>
 
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cyrolux123&show_icons=true&locale=en&layout=compact" alt="cyrolux123" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cyrolux123&" alt="cyrolux123" /></p>
 
 ---
 
