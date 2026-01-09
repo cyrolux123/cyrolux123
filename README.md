@@ -5,11 +5,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyrolux123&label=Profile%20views&color=0e75b6&style=flat" alt="cyrolux123" /> </p>
 
 - 🌱 I’m currently working on **Data Anaysis, AI/ML and Data Science**
-
 - 💬 Ask me about **Python, DA, ML, DL, Gen AI, and DS**
-
 - 📫 How to reach me **nabincoder@gmail.com**
-
 - ⚡ Hobby : **EAT-SLEEP-CODE-REPEAT**
 
 
