@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nabin Katwal</h1>
+<h1 align="center">Hi 👋 I'm Nabin Katwal</h1>
 <h3 align="center">A Passionate Data Scientist </h3>
 <img align="right" alt="Coding" width="200" src="JXA0.gif">
 
